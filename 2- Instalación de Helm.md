@@ -9,4 +9,4 @@
 ## 3. Lo movemos para que sea binario.
 ``` mv linux-amd64/helm /usr/local/bin/helm ```
 
-## YA LO TENEMOS INSTALADO Y LISTO PARA USAR.
+### YA LO TENEMOS INSTALADO Y LISTO PARA USAR.
