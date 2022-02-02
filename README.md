@@ -5,7 +5,7 @@ Vamos a Instalar Kubernetes en remoto en un servidor alojado en Cloud.io
 
 ## Índice:
 ### 1- Información
-1.1- [ ¿Qué es Helm? ¿Qué son los charts? ]()  
+1.1- [ ¿Qué es Helm? ¿Qué son los charts? ](https://github.com/juanglez01/Helm/blob/846c1b6b1cecc9752bab72e9b6146e3f9db9aca1/1.-%20%C2%BFQu%C3%A9%20es%20Helm%3F%20%C2%BFQu%C3%A9%20son%20los%20charts%3F)  
 ### 2- Instalación
 2- [ Instalación de Helm. ]()  
 ### 3- Trabajando con repositorios.  
