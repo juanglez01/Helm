@@ -1,7 +1,7 @@
 # 1-Información:
 ## ¿Qué es Helm?
 Helm es la mejor manera de buscar, compartir y utilizar software creado para Kubernetes.  
-Es una herramienta para gestionar aplicaciones de Kubernetes.  
+Es una herramienta para gestionar aplicaciones de Kubernetes.
 ![ k0s ](https://github.com/juanglez01/K0S/blob/c69a9256a339794941c3904c4cee74e2531e2e3f/Imagenes/k0s.png)
 
 ## ¿Qué son los charts?
