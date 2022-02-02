@@ -1,0 +1,11 @@
+# 1-Información:
+## ¿Qué es Helm?
+Helm es la mejor manera de buscar, compartir y utilizar software creado para Kubernetes.  
+Es una herramienta para gestionar aplicaciones de Kubernetes.  
+
+
+
+## ¿Qué son los charts?
+Un chart es una colección de archivos que describen un conjunto relacionado de recursos de Kubernetes.  
+Los charts se crean como archivos dispuestos en un árbol de directorios en particular. 
+Se pueden empaquetar en archivos versionados para ser desplegados.
