@@ -7,7 +7,7 @@ Vamos a Instalar Kubernetes en remoto en un servidor alojado en Cloud.io
 ### 1- Información
 1.1- [ ¿Qué es Helm? ¿Qué son los charts? ](https://github.com/juanglez01/Helm/blob/e30438259e703134eb4dc480f644dc2b67ee7790/1.-%20%C2%BFQu%C3%A9%20es%20Helm%3F%20%C2%BFQu%C3%A9%20son%20los%20charts%3F.md)  
 ### 2- Instalación
-2- [ Instalación de Helm. ]()  
+2- [ Instalación de Helm. ](https://github.com/juanglez01/Helm/blob/b7038478b8ab0f4977d6a987dbebc62c20ba4b99/2-%20Instalaci%C3%B3n%20de%20Helm.md)  
 ### 3- Trabajando con repositorios.  
 3.1- [ Listar Repositorios ]()  
 3.2- [ Añadir repositorios: bitnami. ]()  
