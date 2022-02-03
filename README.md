@@ -1,7 +1,7 @@
 # Helm
 
 ## Descripción del proyecto:
-Vamos a Instalar Kubernetes en remoto en un servidor alojado en Cloud.io
+Vamos a desplegar WordPress a través de Helm.
 
 ## Índice:
 ### 1- Información
