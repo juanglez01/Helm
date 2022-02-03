@@ -18,4 +18,4 @@ Vamos a Instalar Kubernetes en remoto en un servidor alojado en Cloud.io
 4.2- [ Comprobación de los objetos creados. ](https://github.com/juanglez01/Helm/blob/22ce105b90273252c06ce5dda0fbd5951b0e76b9/4.2-%20Comprobaci%C3%B3n%20de%20los%20objetos%20creados.md)  
 4.3- [ Acceso a la aplicación ](https://github.com/juanglez01/Helm/blob/8f675a62d8d177d0c95876263eeae963ae0bc6a0/4.3-%20Acceso%20a%20la%20aplicaci%C3%B3n.md)  
 ### 5- Referencias  
-5.1- [ Referencias consultadas ]()  
+5.1- [ Referencias consultadas ](https://github.com/juanglez01/Helm/blob/99af3a4da9e3fc1aa1c7947f0b041bcd16f7f67a/5.1-%20Referencias%20consultadas.md)  
