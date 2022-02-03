@@ -16,6 +16,6 @@ Vamos a Instalar Kubernetes en remoto en un servidor alojado en Cloud.io
  ### 4- Caso práctico: Instalar Wordpress  
 4.1- [ Vamos a parametrizar el wordpress, indicando dos parámetros: el tipo de servicio y el nombre del blog ](https://github.com/juanglez01/Helm/blob/127d3b7a21d3f1eb6f3e2c5561f5eb2d3a40c61d/4.1-%20Vamos%20a%20parametrizar%20el%20wordpress,%20indicando%20dos%20par%C3%A1metros:%20el%20tipo%20de%20servicio%20y%20el%20nombre%20del%20blog%20.md)  
 4.2- [ Comprobación de los objetos creados. ](https://github.com/juanglez01/Helm/blob/22ce105b90273252c06ce5dda0fbd5951b0e76b9/4.2-%20Comprobaci%C3%B3n%20de%20los%20objetos%20creados.md)  
-4.3- [ Acceso a la aplicación ]()  
+4.3- [ Acceso a la aplicación ](https://github.com/juanglez01/Helm/blob/8f675a62d8d177d0c95876263eeae963ae0bc6a0/4.3-%20Acceso%20a%20la%20aplicaci%C3%B3n.md)  
 ### 5- Referencias  
 5.1- [ Referencias consultadas ]()  
