@@ -19,3 +19,5 @@ Vamos a desplegar WordPress a través de Helm.
 4.3- [ Acceso a la aplicación ](https://github.com/juanglez01/Helm/blob/8f675a62d8d177d0c95876263eeae963ae0bc6a0/4.3-%20Acceso%20a%20la%20aplicaci%C3%B3n.md)  
 ### 5- Referencias  
 5.1- [ Referencias consultadas ](https://github.com/juanglez01/Helm/blob/99af3a4da9e3fc1aa1c7947f0b041bcd16f7f67a/5.1-%20Referencias%20consultadas.md)  
+
+### 6- [ Licencia ](https://github.com/juanglez01/Helm/blob/fc6de4eb45163e244c3372246845c1dc49373fdd/imagenes/CC.png)
